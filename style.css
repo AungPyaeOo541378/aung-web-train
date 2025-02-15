@@ -1,0 +1,94 @@
+.background {
+  background-color: rgba(207, 207, 207, 0.384);
+}
+.wh-face {
+  flex-wrap: wrap;
+}
+.facebook {
+  color: #0b68f3;
+  font-family: inherit;
+  font-size: 70px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.second {
+  display: block;
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 1px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  gap: 1rem;
+}
+
+.creat {
+  font-size: 30px;
+  font-weight: 600;
+}
+.third {
+  display: block;
+  background-color: white;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.select {
+  display: flex;
+}
+.bd {
+  color: #606770;
+  font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 20px;
+  margin: 20px 5px 5px;
+  text-align: left;
+}
+.male {
+  border: 1px solid #d0d8e4;
+  padding: 4px;
+  border-radius: 5px;
+  width: 411px;
+}
+.select2 {
+  display: flex;
+  gap: 10px;
+}
+.text-p {
+  font-size: 11px;
+  text-align: left;
+  padding-left: 5px;
+  padding-top: 20px;
+  color: #a4a5a5;
+}
+.text-p2 {
+  font-size: 11px;
+  text-align: left;
+  padding-left: 5px;
+  color: #a4a5a5;
+}
+.button-sign {
+  background: none;
+  background-color: #00a400;
+  border: none;
+  border-radius: 6px;
+  box-shadow: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  height: 36px;
+  width: 200px;
+  overflow: hidden;
+  padding: 0 32px;
+  text-shadow: none;
+}
+.herf {
+  text-decoration: none;
+}
